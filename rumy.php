@@ -1,3 +1,3 @@
 <?php
 
-echo 'rumy commit';
+echo 'rumy1 commit';
